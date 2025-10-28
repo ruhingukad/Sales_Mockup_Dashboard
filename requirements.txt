@@ -1,0 +1,25 @@
+
+# --- Core Streamlit App ---
+streamlit>=1.30.0
+
+# --- Data Handling ---
+pandas>=2.0.0
+numpy>=1.25.0
+
+# --- Visualization ---
+plotly>=5.18.0
+
+# --- Geospatial (optional but recommended) ---
+geopandas>=0.14.0
+shapely>=2.0.0
+
+# --- Image and File Utilities ---
+pillow>=10.0.0
+
+# --- JSON and system utilities (standard libs: no need to install)
+# json
+# os
+# datetime
+
+# --- Optional (if using map GeoJSONs locally) ---
+requests>=2.31.0
